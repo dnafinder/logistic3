@@ -22,7 +22,7 @@ function [cf,G]=L3P(x,y,varargin)
 % concentration. 
 % 
 %
-% Syntax: [cf G]=L3P(x,y,st,L,U)
+% Syntax: [cf,G]=L3P(x,y,st,L,U)
 % 
 % Inputs: 
 %           X and Y (mandatory) - data points.
@@ -89,7 +89,7 @@ function [cf,G]=L3P(x,y,varargin)
 %
 % To cite this file, this would be an appropriate format:
 % Cardillo G. (2012) Three parameters logistic regression - There and back again
-
+% https://it.mathworks.com/matlabcentral/fileexchange/38124
 
 %--------------------Input errors handling section-------------------------
 p = inputParser;
