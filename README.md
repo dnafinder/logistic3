@@ -15,3 +15,10 @@ In this submission there are 2 functions:
 L3P - to find the 3 parameters and to fit your data (as calibrators...);
 L3Pinv - to interpolate data of unknown samples onto calibrators curve.
 Enjoy!
+
+           Created by Giuseppe Cardillo
+           giuseppe.cardillo-edta@poste.it
+
+To cite this file, this would be an appropriate format:
+Cardillo G. (2012) Three parameters logistic regression - There and back again
+https://it.mathworks.com/matlabcentral/fileexchange/38124
