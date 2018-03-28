@@ -44,7 +44,7 @@ function x = L3Pinv(cf,y)
 %
 % To cite this file, this would be an appropriate format:
 % Cardillo G. (2012) Three parameters logistic regression - There and back again
-% 
+% https://it.mathworks.com/matlabcentral/fileexchange/38124
 
 %--------------------Input errors handling section-------------------------
 p=inputParser;
