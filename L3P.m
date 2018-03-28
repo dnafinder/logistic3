@@ -100,6 +100,7 @@ addOptional(p,'L',[],@(x) validateattributes(x,{'numeric'},{'row','real','nonnan
 addOptional(p,'U',[],@(x) validateattributes(x,{'numeric'},{'row','real','nonnan','ncols',3}));
 parse(p,x,y,varargin{:});
 st=p.Results.st; L=p.Results.L; U=p.Results.U;
+clear p
 assert(size(x,1)==size(y,1),'X and Y must have the same rows number')
 assert(size(x,1)>=3,'Not enough Data points')
 
