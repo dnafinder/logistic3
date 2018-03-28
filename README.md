@@ -3,7 +3,7 @@ Three Parameters logistic regression.</br>
 One big holes into MatLab cftool function is the absence of Logistic Functions. In particular, The Three Parameters Logistic Regression or 3PL nonlinear regression model is commonly used for curve-fitting analysis in bioassays or immunoassays such as ELISA, RIA, IRMA or dose-response curves. It is characterized by it’s classic “S” or sigmoidal shape that fits the top plateaus of the curve, the EC50, and the slope factor (Hill's slope). This curve is symmetrical around its inflection point.
 The 3PL equation is:
 F(x) = D/(1+(x/C)^(-B))
-where:
+where:<br/>
 B = Hill's slope. The Hill's slope refers to the steepness of the curve. It could either be positive or negative.
 
 C = Inflection point. The inflection point is defined as the point on the
