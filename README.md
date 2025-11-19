@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=dnafinder/logistic3)
+
 📘 Overview
 logistic3 is a lightweight MATLAB toolbox that implements the three-parameter logistic (3PL) regression model, widely used in bioassays and immunoassays such as ELISA, RIA, IRMA, and dose-response curves. The 3PL model captures the sigmoidal (“S-shaped”) relationship between analyte concentration and measured response, including the upper asymptote (D), slope factor (B), and inflection point (C, EC50).
 
